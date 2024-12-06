@@ -10,3 +10,4 @@
 ## Ref
 
 * <https://github.com/requirejs/requirejs>
+* <https://requirejs.org/docs/api.html>
