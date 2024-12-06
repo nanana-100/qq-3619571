@@ -4,7 +4,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Tue Mar 21 15:46:58 CST 2023` | -
+`Fri Dec  6 16:47:40 CST 2024` | `Tue Mar 21 15:46:58 CST 2023`
 
 
 ```javascript
@@ -12,5 +12,8 @@ console.log(module.paths)
 ```
 
 ```javascript
-module.exports = require('./lib')
+require('axios')
+
+// axios/index.js
+module.exports = require('./lib/axios')
 ```
